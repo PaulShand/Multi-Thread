@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment explores the concepts of multithreading in C by implementing two critical components: a custom reader-writer lock (`rwlock.c`) and a thread-safe queue (`queue.c`). Both these components use pthreads to manage concurrency and ensure thread safety.
+This Project explores the concepts of multithreading in C by implementing two critical components: a custom reader-writer lock (`rwlock.c`) and a thread-safe queue (`queue.c`). Both these components use pthreads to manage concurrency and ensure thread safety.
 
 ## Reader-Writer Lock (`rwlock.c`)
 
